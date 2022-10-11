@@ -43,10 +43,7 @@ function addBookmark() {
         setToLocalStorage();
         clearError()
         clearField()
-    }else{
-        movingBtn()
     }
-
 }
 
 
